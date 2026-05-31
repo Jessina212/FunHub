@@ -54,3 +54,8 @@ Formatting of text in the terminal- To make the user experience even better and 
 ### Closing note
 
 Life should not be taken very seriously, and sometimes, it's just better to take a step back and relax!! You deserve it and you need it!
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ac6b2ab7754b295c5a50ddb0b1cfdc85d3fec976
