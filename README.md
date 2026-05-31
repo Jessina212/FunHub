@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FunHub: Where Fun is INFINITE and <ins>**never ends**<ins>!!
 #### Video Demo: https://youtu.be/5evmX99elEs
 #### Description:
@@ -55,7 +54,3 @@ Formatting of text in the terminal- To make the user experience even better and 
 ### Closing note
 
 Life should not be taken very seriously, and sometimes, it's just better to take a step back and relax!! You deserve it and you need it!
-=======
-# FunHub
-This project consists of games to lighten up and refresh the user's mood. It was a very fun project to create. It consists of 2 games so far 'NumGuesser' and 'AnimalTalk'. It was created keeping in mind how much getting relaxed and lightening our moods is important to keep grinding in this race called life.
->>>>>>> a6d302645b761fbf2dd2585ef2c9bf48d6f17889
